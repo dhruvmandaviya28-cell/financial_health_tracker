@@ -1,11 +1,10 @@
-
-# Automated Financial Health Monitor  - FINPILOT
+# Automated Financial Health Monitor - FINPILOT
 
 This project is a full-stack web application designed to help users monitor, analyze, and improve their financial health. It provides a structured way to track income, expenses, and financial goals while offering insights based on user data.
 
 The application is built using a modern tech stack with a React frontend and a Node.js backend, focusing on performance, scalability, and real-time interaction.
 
-## Feature
+## Features
 
 User authentication and secure session handling
 Add, manage, and categorize income and expenses
@@ -81,3 +80,7 @@ AI-based financial recommendations
 Improved data security and encryption
 Mobile application support
 Advanced filtering and reporting options
+
+## License
+
+This project is open source and available under the MIT License
