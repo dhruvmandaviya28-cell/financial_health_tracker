@@ -5,7 +5,7 @@ This project is a full-stack web application designed to help users monitor, ana
 
 The application is built using a modern tech stack with a React frontend and a Node.js backend, focusing on performance, scalability, and real-time interaction.
 
-## Features
+## Feature
 
 User authentication and secure session handling
 Add, manage, and categorize income and expenses
