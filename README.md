@@ -6,7 +6,7 @@ The application is built using a modern tech stack with a React frontend and a N
 
 ## Features
 
-User authentication and secure session handling
+User authentication and secure session handling,
 Add, manage, and categorize income and expenses
 Dashboard with financial overview and key metrics
 Budget tracking and goal management
